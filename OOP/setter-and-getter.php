@@ -112,7 +112,7 @@ echo $produk2->getHarga();
 echo "<hr>";
 
 // Perbaikan: getPenulis tidak menerima parameter
-$produk1->setPenulis("Daffaa Aprilino");
+$produk1->setPenulis("Daniel Satya R");
 echo $produk1->getPenulis();
 
 ?>
